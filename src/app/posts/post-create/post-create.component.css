@@ -1,0 +1,17 @@
+:host {
+	display: block;
+	margin-top: 1rem;
+}
+
+mat-form-field,
+textarea {
+	width: 100%;
+	/* color: #fff; */
+}
+
+button {
+	width: 10%;
+	margin: 2rem;
+	margin-top: 0.4rem;
+	/* margin: auto; */
+}
